@@ -13,21 +13,12 @@ $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
 $ wget https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi/archive/master.zip <br/>
 $ unzip -j master.zip <br/>
-Remove master.zip, license.txt and README.md as they are no longer needed. <br/> 
+Remove master.zip, license and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
-$ rm license.zip <br/>
+$ rm LICENSE <br/>
 $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this: <br/> 
-Face_1.jpg <br/>
-Face_2.jpg <br/>
-Face_3.jpg <br/>
-Face_Mask_Video.mp4 <br/>
-MaskUltra.cpb <br/>
-mask_ultra.cpp <br/>
-UltraFace.cpp <br/>
-UltraFace.hpp <br/>
-RFB-320.bin <br/>
-RFB-320.param <br/>
-slim_320.bin <br/>
-slim_320.param <br/>
+James.mp4 <br/>
+TestCamera.cpb <br/>
+SimpleGrab.cpp <br/>
 
