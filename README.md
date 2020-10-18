@@ -5,7 +5,7 @@
 see [OpenCV examples](https://qengineering.eu/opencv-c-examples-on-raspberry-pi.html) where this example is explored. 
 ## Dependencies.
 To run the application, you have to:
-- OpenCV installed. [Install OpenCV 4.5 - 32 bit](https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html) or [Install OpenCV 4.5 - 64 bit](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
+- OpenCV installed [Install OpenCV 4.5 - 32 bit OS](https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html) or [Install OpenCV 4.5 - 64 bit OS](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
 - Code::Blocks installed. (```$ sudo apt-get install codeblocks```)
 ## Running the app.
 To extract and run the network in Code::Blocks <br/>
