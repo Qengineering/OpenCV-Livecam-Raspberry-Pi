@@ -23,3 +23,7 @@ James.mp4 <br/>
 TestCamera.cpb <br/>
 SimpleGrab.cpp <br/>
 
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
